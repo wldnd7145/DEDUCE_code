@@ -1,0 +1,59 @@
+bwt: nan
+Each task in CIL: [88.6]
+Each task in TIL: [88.6]
+unlearn times of new task: 0
+Accuracy for 1 task(s): 	 [Class-IL]: 88.6 % 	 [Task-IL]: 88.6 %
+task 0 unlearn times: 0
+bwt: -29.4
+Each task in CIL: [59.199999999999996, 84.3]
+Each task in TIL: [84.5, 87.2]
+unlearn times of new task: 0
+Accuracy for 2 task(s): 	 [Class-IL]: 71.75 % 	 [Task-IL]: 85.85 %
+task 1 unlearn times: 3123
+bwt: -31.04999999999999
+Each task in CIL: [55.2, 55.60000000000001, 85.8]
+Each task in TIL: [80.0, 82.3, 88.3]
+unlearn times of new task: 0
+Accuracy for 3 task(s): 	 [Class-IL]: 65.53 % 	 [Task-IL]: 83.53 %
+task 2 unlearn times: 3351
+bwt: -37.86666666666667
+Each task in CIL: [47.699999999999996, 39.7, 57.699999999999996, 85.1]
+Each task in TIL: [75.1, 77.5, 84.6, 89.0]
+unlearn times of new task: 0
+Accuracy for 4 task(s): 	 [Class-IL]: 57.55 % 	 [Task-IL]: 81.55 %
+task 3 unlearn times: 3343
+bwt: -41.349999999999994
+Each task in CIL: [43.0, 38.1, 46.7, 50.6, 86.7]
+Each task in TIL: [72.1, 77.0, 81.89999999999999, 84.5, 90.8]
+unlearn times of new task: 0
+Accuracy for 5 task(s): 	 [Class-IL]: 53.02 % 	 [Task-IL]: 81.26 %
+task 4 unlearn times: 3125
+bwt: -44.11999999999999
+Each task in CIL: [38.1, 31.5, 50.7, 45.1, 44.5, 85.39999999999999]
+Each task in TIL: [71.89999999999999, 71.89999999999999, 78.7, 81.89999999999999, 82.89999999999999, 89.60000000000001]
+unlearn times of new task: 0
+Accuracy for 6 task(s): 	 [Class-IL]: 49.22 % 	 [Task-IL]: 79.48 %
+task 5 unlearn times: 2953
+bwt: -46.149999999999984
+Each task in CIL: [40.300000000000004, 29.299999999999997, 42.5, 37.6, 38.0, 51.300000000000004, 85.6]
+Each task in TIL: [71.1, 67.9, 77.10000000000001, 78.5, 78.9, 81.8, 89.3]
+unlearn times of new task: 0
+Accuracy for 7 task(s): 	 [Class-IL]: 46.37 % 	 [Task-IL]: 77.8 %
+task 6 unlearn times: 3685
+bwt: -50.385714285714286
+Each task in CIL: [36.4, 23.599999999999998, 38.2, 33.900000000000006, 33.2, 43.6, 39.900000000000006, 87.3]
+Each task in TIL: [70.3, 63.4, 74.7, 77.0, 76.8, 78.9, 84.2, 89.9]
+unlearn times of new task: 0
+Accuracy for 8 task(s): 	 [Class-IL]: 42.01 % 	 [Task-IL]: 76.9 %
+task 7 unlearn times: 3882
+bwt: -54.18749999999999
+Each task in CIL: [26.5, 19.3, 33.900000000000006, 28.999999999999996, 32.4, 39.0, 39.7, 35.5, 89.1]
+Each task in TIL: [67.4, 63.5, 71.8, 75.6, 75.5, 76.4, 81.69999999999999, 81.69999999999999, 91.7]
+unlearn times of new task: 0
+Accuracy for 9 task(s): 	 [Class-IL]: 38.27 % 	 [Task-IL]: 76.14 %
+task 8 unlearn times: 3965
+bwt: -54.444444444444436
+Each task in CIL: [34.1, 23.200000000000003, 35.4, 28.000000000000004, 29.4, 35.0, 35.699999999999996, 26.400000000000002, 40.699999999999996, 84.6]
+Each task in TIL: [69.5, 65.10000000000001, 72.1, 75.9, 76.2, 75.3, 81.10000000000001, 79.3, 86.4, 93.0]
+unlearn times of new task: 0
+Accuracy for 10 task(s): 	 [Class-IL]: 37.25 % 	 [Task-IL]: 77.39 %

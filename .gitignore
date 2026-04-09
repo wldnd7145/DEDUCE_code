@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Datasets (auto-downloaded)
+DEDUCE_code/data/
+DEDUCE_code/dataCIFAR100/
+
+# Full raw experiment logs (only logs_summary/ is tracked)
+logs/
+logs_official.txt
+nohup.out

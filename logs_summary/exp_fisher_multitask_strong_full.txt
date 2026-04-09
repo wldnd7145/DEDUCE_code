@@ -1,0 +1,48 @@
+bwt: nan
+Each task in CIL: [89.8]
+Each task in TIL: [89.8]
+unlearn times of new task: 0
+Accuracy for 1 task(s): 	 [Class-IL]: 89.8 % 	 [Task-IL]: 89.8 %
+task 0 unlearn times: 0
+bwt: -26.099999999999994
+Each task in CIL: [63.7, 82.89999999999999]
+Each task in TIL: [85.1, 86.3]
+unlearn times of new task: 0
+Accuracy for 2 task(s): 	 [Class-IL]: 73.3 % 	 [Task-IL]: 85.7 %
+task 1 unlearn times: 3155
+bwt: -29.799999999999994
+Each task in CIL: [57.4, 55.7, 85.8]
+Each task in TIL: [80.30000000000001, 78.8, 89.60000000000001]
+unlearn times of new task: 0
+Accuracy for 3 task(s): 	 [Class-IL]: 66.3 % 	 [Task-IL]: 82.9 %
+task 2 unlearn times: 2935
+bwt: -36.26666666666666
+Each task in CIL: [50.0, 45.6, 54.1, 84.6]
+Each task in TIL: [78.2, 75.8, 81.10000000000001, 90.10000000000001]
+unlearn times of new task: 0
+Accuracy for 4 task(s): 	 [Class-IL]: 58.58 % 	 [Task-IL]: 81.3 %
+task 3 unlearn times: 3276
+bwt: -41.62499999999999
+Each task in CIL: [44.5, 44.6, 46.1, 41.4, 83.8]
+Each task in TIL: [76.8, 75.2, 79.2, 83.1, 88.8]
+unlearn times of new task: 0
+Accuracy for 5 task(s): 	 [Class-IL]: 52.08 % 	 [Task-IL]: 80.62 %
+task 4 unlearn times: 3981
+bwt: -44.779999999999994
+Each task in CIL: [40.6, 39.4, 48.6, 32.5, 41.9, 86.1]
+Each task in TIL: [74.7, 71.3, 77.4, 80.5, 83.2, 89.9]
+unlearn times of new task: 0
+Accuracy for 6 task(s): 	 [Class-IL]: 48.18 % 	 [Task-IL]: 79.5 %
+task 5 unlearn times: 2952
+bwt: -46.23333333333333
+Each task in CIL: [41.699999999999996, 37.9, 40.9, 27.1, 37.2, 50.8, 83.1]
+Each task in TIL: [72.89999999999999, 67.80000000000001, 74.4, 75.9, 78.5, 82.1, 89.1]
+unlearn times of new task: 0
+Accuracy for 7 task(s): 	 [Class-IL]: 45.53 % 	 [Task-IL]: 77.24 %
+task 6 unlearn times: 3019
+bwt: -47.47142857142857
+Each task in CIL: [38.7, 36.9, 39.5, 25.8, 36.5, 45.9, 40.5, 80.7]
+Each task in TIL: [73.1, 66.3, 73.7, 71.2, 75.5, 79.5, 82.8, 88.5]
+unlearn times of new task: 0
+Accuracy for 8 task(s): 	 [Class-IL]: 43.06 % 	 [Task-IL]: 76.32 %
+task 7 unlearn times: 4083
