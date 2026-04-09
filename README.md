@@ -20,14 +20,16 @@ CIFAR-100 is automatically downloaded on first run.
 ./run_deduce.sh
 ```
 
-## Reproduction Results
+## Analysis
 
 Setting: CIFAR-100, 10 tasks, Offline CL, OUR(G), DER++ based, buffer 500, seed 0, RTX 3090
 
 | Model | CIL (%) | TIL (%) | BWT |
 |-------|--------:|--------:|----:|
-| Baseline (DER++) | 38.28 | 77.09 | -53.51 |
-| **DEDUCE** | **44.39** | **79.79** | **-25.62** |
+| Baseline (DER++) | 38.28 | 77.09 | -53.5 |
+| **DEDUCE** | **44.39** | **79.79** | **-28.2** |
+| DEDUCE (LUM + Projection) | 43.9 | 80.1 | -28.2 |
+| DEDUCE (Fisher Multi-task) | 36.96 | 76.36 | -53.5 |
 
 ## License
 
