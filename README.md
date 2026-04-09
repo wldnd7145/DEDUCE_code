@@ -40,3 +40,7 @@ Setting: CIFAR-100, 10 tasks, Offline CL, OUR(G), DER++ based, buffer 500, seed 
 ## License
 
 The official DEDUCE code follows the original authors' license. See `LICENSE` for details.
+
+## Reference
+
+Wang et al., "Detect, Decide, Unlearn: A Transfer-Aware Framework for Continual Learning", ICLR 2026 https://openreview.net/forum?id=Lej4WvdpFE
