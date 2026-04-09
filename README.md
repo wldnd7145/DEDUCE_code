@@ -18,6 +18,12 @@ CIFAR-100 is automatically downloaded on first run.
 
 # DEDUCE (full reproduction)
 ./run_deduce.sh
+
+# Exp 1: DEDUCE with LUM + Gradient Projection
+./run_exp1.sh
+
+# Exp 2: DEDUCE with Fisher Multi-task LUM
+./run_exp2.sh
 ```
 
 ## Analysis
