@@ -1,6 +1,6 @@
 # DEDUCE Reproduction (ICLR 2026)
 
-DEDUCE is a continual learning method that combines Dark Experience Replay++ (DER++) with Learned Unlearning Mechanism (LUM) and Gradient Update Mechanism (GUM) to mitigate catastrophic forgetting. This repository reproduces the results from the official DEDUCE codebase on CIFAR-100.
+DEDUCE is a continual learning method that combines Dark Experience Replay++ (DER++) with Local Unlearning Module (LUM) and Global Unlearning Module (GUM) to mitigate catastrophic forgetting. This repository reproduces the results from the official DEDUCE codebase on CIFAR-100.
 
 ## Setup
 
